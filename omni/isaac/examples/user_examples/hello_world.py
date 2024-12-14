@@ -16,7 +16,7 @@ class HelloWorld(BaseSample):
                 name="fancy_cube",
                 position=np.array([0, 0, 1.0]),
                 scale=np.array([0.5015, 0.5015, 0.5015]),
-                color=np.array([0, 0, 1.0]),
+                color=np.array([1.0, 0, 1.0]),
             ))
         return
 
